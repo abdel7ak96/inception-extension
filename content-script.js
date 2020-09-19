@@ -9,7 +9,7 @@ function createAndInsertButton() {
     let elementToInsertIn = document.querySelector('div .file-navigation');
     let elementToInsertBefore = document.querySelector('.file-navigation a.btn.ml-2');
 
-    elementToInsertIn.insertBefore(createdButton, elementToInsertBefore);
+    if(elementToInsertIn && elementToInsertBefore) elementToInsertIn.insertBefore(createdButton, elementToInsertBefore);
 }
 
 function generateLink() {
