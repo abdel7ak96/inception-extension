@@ -1,3 +1,8 @@
+chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
+    console.log('listener called!');
+    generateLink();
+});
+
 createAndInsertButton();
 
 function createAndInsertButton() {
