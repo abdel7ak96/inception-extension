@@ -37,3 +37,4 @@ Essentially this is meant to be a smoother way to navigate commits history on gi
 
 * Navigate to commit by number/order and branche.
 * Next & previous commits button maybe.
+* Testing with various browsers' versions.
