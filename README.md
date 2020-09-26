@@ -7,10 +7,10 @@
 </p>
 
 ## Motivation
-It is quite fun to get to see how some enourmous projects out there were started from literally one file, I don't know maybe I'm weird!
+It is quite fun to get to see how some enormous projects out there were started from literally one file, I don't know maybe I'm weird!
 
 ## Desciption
-Inception is a browser extension _(and my pet project)_ that when installed allows the user to travel to the very first commit of any gihtub reporisitory, even the ones with tens of thousands of commits history (which makes it quite impossibe to do using the UI navigation provided by github, I believe).
+Inception is a browser extension _(and my pet project)_ that when installed allows the user to travel to the very first commit of any Github repository, even the ones with tens of thousands of commits history (which makes it quite impossible to do using the UI navigation provided by Github, I believe).
 
 ## Demonstration
 ![Gif image walkthrough demo](images/demo.gif)
@@ -23,7 +23,7 @@ Inception is a browser extension _(and my pet project)_ that when installed allo
 1. Download (unzip afterward) or clone this repo locally.
 2. Open your browser and go to extensions.
 3. Enable developer mode
-4. Click on "load unpackaged extension" and choose the folder holding the files
+4. Click on the “Load Unpacked Extension…” button and select the folder holding the files
 5. Et Voila! (<b><span style="color: red">IMPORTANT:</span> Don't delete the folder after installation</b>)
 
 ## TODOs
