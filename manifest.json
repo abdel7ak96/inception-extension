@@ -1,6 +1,6 @@
 {
     "name": "Inception",
-    "version": "1.0",
+    "version": "0.1.0",
     "description": "An extension that allows you to travel to the very first commit of any Github repository",
     "permissions": [
         "tabs"
